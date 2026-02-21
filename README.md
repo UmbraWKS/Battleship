@@ -1,21 +1,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-# Chess
-  The battleship game I made in my 3rd year of high school.
+# Battleship
+  Il gioco battaglia navale che ho fatto durante il terzo anno di scuola superiore mentre studiavo C.
 
-## Dependencies
+## Dipendenze
 - gcc
 - make
 
-## Installing
-  Steps to install, compile and run
+## Installazione
+  Come installare, compilare ed eseguire:
   ```
-  git clone https://github.com/UmbraWKS/Battleship.git
+  git clone https://github.com/UmbraWKS/battleship.git
   cd battleship
   make
   ```
 
-  Optional: `rm -rf .git`
+  Opzionale: `rm -rf .git`
 
-  Run with: `./battleship`
+  Esegui: `./battleship`
 
